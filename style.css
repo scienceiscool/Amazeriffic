@@ -1,5 +1,7 @@
 body {
-  background: #f9e933;
+  width: 800px;
+  background: brown;
+  color: #ff0000;
 }
 
 header, main, footer {
@@ -29,7 +31,6 @@ header nav {
 main {
   width: 500px;
   margin: auto;
-  /*background: white;*/
   background: gray;
   overflow: auto;
 }
