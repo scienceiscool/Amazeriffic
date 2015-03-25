@@ -1,10 +1,10 @@
 body {
   width: 800px;
-  background: brown;
+  background: pink;
   color: #ff0000;
 }
 
-header, main, footer {
+header, main, footer { /*Opposite of a responsive page - fixed width*/
   min-width: 855px;
 }
 
@@ -31,7 +31,7 @@ header nav {
 main {
   width: 500px;
   margin: auto;
-  background: gray;
+  background: white;
   overflow: auto;
 }
 
